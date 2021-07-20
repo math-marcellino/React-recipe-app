@@ -1,2 +1,2 @@
-# React-recipe-app
- First react app
+# recipe-app
+ React recipe app
